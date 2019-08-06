@@ -23,7 +23,3 @@ Running on PWS
 Use any relational DB on PWS
 Fancy UI is not the goal here, so use whatever UI tech you’re comfortable with. Do implement a REST API with Spring that’s communicating with a JS front-end of your choice (e.g. no server-side templating like JSP or Thymeleaf)
 
-Running at: https://mstine-todo-list.cfapps.io/
-
-User: joeuser@example.com
-Password: password
